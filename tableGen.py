@@ -32,8 +32,10 @@ rd0 = """# Welcome to my homepage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=blueflylabor&layout=compact&count_private=true&theme=dark)
 
-## Website [temp use waiting for finishing post sys]
-- [https://blueflylabor.github.io](https://blueflylabor.github.io)
+## Website
+- [new site](https://www.cnblogs.com/blueflylabor)
+- [old site](https://www.cnblogs.com/Carrawayang)
+- [blueflylabor.github.io](https://blueflylabor.github.io)
 
 ## Markdown Table 
 
