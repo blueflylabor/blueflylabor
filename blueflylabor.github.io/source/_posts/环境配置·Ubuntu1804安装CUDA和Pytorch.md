@@ -9,7 +9,7 @@ top_img: false
 
 ## Init Ubuntu and change deb&pip source
 ```sh
-wget https://github.com/blueflylabor/blueflylabor.github.io/blob/main/toolbox/initUbuntu/initUbuntu.sh
+wget https://fastly.jsdelivr.net/gh/blueflylabor/_ebxeax.github.io@0.0/toolbox/initUbuntu/initUbuntu.sh
 bash ./initUbuntu.sh
 ```
 
