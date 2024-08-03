@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=blueflylabor&layout=compact&count_private=true&theme=dark)
 
-![map](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5h6pyj9unzd.png)
+import './map.js';
 
 ## Website
 - [new site](https://www.cnblogs.com/blueflylabor)
