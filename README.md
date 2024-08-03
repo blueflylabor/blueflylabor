@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=blueflylabor&layout=compact&count_private=true&theme=dark)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5h6pyj9unzd&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;lx=260&amp;ly=200" async="async"></script>
+![map](rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5h6pyj9unzd.png)
 
 ## Website
 - [new site](https://www.cnblogs.com/blueflylabor)
