@@ -1,11 +1,10 @@
 ---
-title: 计算机组成原理·Cache和主存的映射替换算法和写策略
-date: 2021-04-06 12:01:51
+title: 计算机组成原理Cache和主存的映射替换算法和写策略
+date: 2019/10/6 12:01:51
 type: "计算机组成原理"
 comments: false
 top_img: false
 ---
-
 
 # Cache和主存的映射·替换算法·写策略 
 ## 映射

@@ -1,7 +1,7 @@
 # Welcome to my homepage
 
 ![blueflylabor's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueflylabor&count_private=true&theme=dark)
-
+<a href="https://www.revolvermaps.com/livestats/5h6pyj9unzd/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5h6pyj9unzd.png" width="256" height="128" alt="Map" style="border:0;"></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=blueflylabor&layout=compact&count_private=true&theme=dark)
 
 ## Website
