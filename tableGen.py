@@ -32,7 +32,7 @@ rd0 = """# Welcome to my homepage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=blueflylabor&layout=compact&count_private=true&theme=dark)
 
-![Map](rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5h6pyj9unzd.png)
+![Map](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5h6pyj9unzd.png)
 
 ## Website
 - [new site](https://www.cnblogs.com/blueflylabor)
