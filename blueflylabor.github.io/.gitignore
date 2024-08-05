@@ -1,8 +1,12 @@
+# output
+_site
+
+# cache
+.sass-cache
+.jekyll-metadata
+
+# gem lock file
+Gemfile.lock
+
+# Mac OSX
 .DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
-_multiconfig.yml
