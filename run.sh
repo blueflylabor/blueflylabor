@@ -1,7 +1,3 @@
-cp ./blueflylabor.github.io/source/_posts/*.md  ./posts/
-cd ./blueflylabor.github.io/
-hexo d
-hexo g
-cd ..
+cp ./blueflylabor.github.io/_posts/*.md  ./posts/
 python3 tableGen.py
 bash ./flash.sh
