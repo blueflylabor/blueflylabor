@@ -23,11 +23,11 @@ Here is blueskylabor.
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=linux,mysql,docker,nginx,pytorch,git,numpy,matplotlib)
+![Tools](https://skillicons.dev/icons?i=linux,mysql,docker,pytorch,git)
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=cpp,cuda,pytorch,ml,dl)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,cmake,pytorch)
 
 ### Stats
 
