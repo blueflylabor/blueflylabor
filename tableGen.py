@@ -41,7 +41,7 @@ rd0 = """# Welcome to my homepage
 
 Hi guys, welcome!
 
-I'm Chen Su, a backend software developer.
+Here is blueskylabor.
 
 ![](https://komarev.com/ghpvc/?username=blueflylabor)
 
@@ -49,7 +49,7 @@ I'm Chen Su, a backend software developer.
 
 ![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green?style=flat-square)
 ![English](https://img.shields.io/badge/English-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green?style=flat-square)
-![Germany](https://img.shields.io/badge/Deutsch-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-green?style=flat-square)
+![Deutsch](https://img.shields.io/badge/Deutsch-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-green?style=flat-square)
 
 ### Programming Languages
 
