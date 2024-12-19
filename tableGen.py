@@ -39,6 +39,39 @@ rd0 = """# Welcome to my homepage
 - [old site](https://www.cnblogs.com/Carrawayang)
 - [blueflylabor.github.io](https://blueflylabor.github.io)
 
+Hi guys, welcome!
+
+I'm Chen Su, a backend software developer.
+
+![](https://komarev.com/ghpvc/?username=blueflylabor)
+
+### Languages
+
+![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green?style=flat-square)
+![English](https://img.shields.io/badge/English-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green?style=flat-square)
+![Germany](https://img.shields.io/badge/Deutsch-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-green?style=flat-square)
+
+### Programming Languages
+
+![Programming Languages](https://skillicons.dev/icons?i=c,c++,matlab,python3,bash,java,cuda,latex)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=linux,mysql,docker,nginx,pytorch,git,numpy,matplotlib)
+
+### Learning
+
+![Currently Learning](https://skillicons.dev/icons?i=cpp,cuda,pytorch,ml,dl)
+
+### Stats
+
+<a href="https://github.com/blueflylabor">
+<img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api?username=blueflylabor&count_private=false&show_icons=true&include_all_commits=false" />
+</a>
+<a href="https://github.com/blueflylabor">
+<img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api/top-langs/?username=blueflylabor&layout=compact&langs_count=8" />
+</a>
+
 ## Markdown Table 
 
 """
