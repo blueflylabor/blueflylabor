@@ -1,4 +1,3 @@
-call ./copy.bat
 python tableGen.py
 call ./flash.bat
 cd ./blueflylabor.github.io
