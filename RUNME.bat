@@ -1,4 +1,4 @@
-copy ./blueflylabor.github.io/_posts/*.md  ./posts/
+call ./copy.bat
 python tableGen.py
 call ./flash.bat
 cd ./blueflylabor.github.io
