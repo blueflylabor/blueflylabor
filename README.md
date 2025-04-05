@@ -19,7 +19,7 @@ Here is blueskylabor.
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=c,c++,matlab,python3,bash,java,cuda,latex)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,matlab,python3,bash,java,cuda,latex)
 
 ### Tools
 
