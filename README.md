@@ -27,7 +27,7 @@ Here is blueskylabor.
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=cpp,cuda,pytorch,ml,dl)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,pytorch)
 
 ### Stats
 
