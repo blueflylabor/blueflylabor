@@ -1,4 +1,5 @@
+cp ../blueflylabor.github.io/_posts/* ./posts 
 git add .
 git commit -m "run flash script"
 git push
-bundle exec jekyll serve
+python treeGen.py
