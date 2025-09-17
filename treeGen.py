@@ -11,12 +11,6 @@ lis.sort()
 
 rd0 = """# Welcome to my homepage
 
-![blueflylabor's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueflylabor&count_private=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=blueflylabor&layout=compact&count_private=true&theme=dark)
-
-![Map](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5h6pyj9unzd.png)
-
 ## Website
 - [new site](https://www.cnblogs.com/blueflylabor)
 - [old site](https://www.cnblogs.com/Carrawayang)
@@ -36,7 +30,7 @@ Here is blueskylabor.
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=c,c++,matlab,python3,bash,java,cuda,latex)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,matlab,python,bash,java,latex)
 
 ### Tools
 
@@ -44,7 +38,7 @@ Here is blueskylabor.
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=cpp,cuda,pytorch,ml,dl)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,go,pytorch)
 
 ### Stats
 
@@ -55,7 +49,11 @@ Here is blueskylabor.
 <img height="190" src="https://github-readme-stats-psi-amber.vercel.app/api/top-langs/?username=blueflylabor&layout=compact&langs_count=8" />
 </a>
 
+![Map](https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=mDCIvYPIKRouJHRiYO6dqK_22eqhTKe0NbwHcydn2l4)
+
+
 ## Markdown Table 
+
 
 """
 
