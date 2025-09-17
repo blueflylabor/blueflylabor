@@ -47,7 +47,7 @@ Here is blueskylabor.
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=c,c++,matlab,python3,bash,java,cuda,latex)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,matlab,python,bash,java,latex)
 
 ### Tools
 
@@ -55,7 +55,7 @@ Here is blueskylabor.
 
 ### Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=cpp,cuda,pytorch,ml,dl)
+![Currently Learning](https://skillicons.dev/icons?i=cpp,go,pytorch)
 
 ### Stats
 
