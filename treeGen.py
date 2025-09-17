@@ -8,6 +8,7 @@ for i in mds:
     st = '- [' + i.split('.md')[0] + '](' + url + i + ')'
     lis.append(st)
 lis.sort()
+lis.reverse()
 
 rd0 = """# Welcome to my homepage
 
